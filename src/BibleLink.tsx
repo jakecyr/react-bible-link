@@ -1,3 +1,4 @@
+import React from 'react'; // Add this line
 import { LinkWithTooltip } from './LinkWithTooltip';
 import { useVerse } from './hooks/useVerse';
 

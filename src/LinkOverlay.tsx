@@ -1,3 +1,4 @@
+import React from 'react'; // Add this line
 import { Tooltip } from 'react-bootstrap';
 
 export interface LinkOverlayProps {

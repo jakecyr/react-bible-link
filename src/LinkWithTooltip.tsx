@@ -1,3 +1,4 @@
+import React from 'react'; // Add this line
 import { OverlayTrigger, Tooltip } from 'react-bootstrap';
 import { Placement } from 'react-bootstrap/types';
 
